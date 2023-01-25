@@ -1,5 +1,6 @@
 # BigEasyEC
 2022-23 Big Easy EC Capstone Project -- Release 0
+Emily Powers, Iris Brook, Madeline Nellis, Sarah Helmbrect
 
 ## Problem:
 In a Post-Roe society, it is more crucial than ever for young women to have access to emergency contraception. We see hotspots for the need for safe contraceptives at universities specifically and we seek to provide safer and more robust resources to these hotspot communities. 
