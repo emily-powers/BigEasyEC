@@ -1,5 +1,6 @@
 # BigEasyEC
 2022-23 Big Easy EC Capstone Project -- Release 0
+
 Emily Powers, Iris Brook, Madeline Nellis, Sarah Helmbrect
 
 ## Problem:
