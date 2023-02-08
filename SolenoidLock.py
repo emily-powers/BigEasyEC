@@ -1,3 +1,5 @@
+// Source: https://iotdesignpro.com/projects/iot-based-solenoid-door-lock-using-raspberry-pi-4
+
 from flask import Flask, render_template, request, redirect, url_for, make_response
 
 app = Flask(__name__)
